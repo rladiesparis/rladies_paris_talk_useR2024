@@ -1,5 +1,6 @@
 project:
   title: "rladies_paris_talk_useR2024"
+  type: website
   output-dir: docs
 editor: visual
 
