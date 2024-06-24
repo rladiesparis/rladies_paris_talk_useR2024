@@ -1,0 +1,238 @@
+---
+title: "Leveraging R-Ladies Paris Reach for Community Impact"
+subtitle: "Chaima Boughanmi - Mouna Belaid"
+author: "[useR! 2024](https://events.linuxfoundation.org/user/)"
+lang: en
+date: "02-07-2024"
+format: 
+  revealjs:
+    theme: _extensions/beatrizmilz/rladies/rladies.scss
+    code-link: true
+    footer: "{{< fa envelope >}} [paris@rladies.org](mailto:paris@rladies.org) {{< fa globe >}} [meetup.com/fr-FR/rladies-paris/](https://www.meetup.com/fr-FR/rladies-paris/) {{< fa brands linkedin >}} [r-ladies-paris](https://www.linkedin.com/company/r-ladies-paris/)"
+    slide-number: c
+    logo: images/useR_logo.jpeg
+    code-block-height: 650px
+execute: 
+  eval: false
+  echo: true
+---
+
+# Plan
+
+1.  Introduction to R-Ladies Global and R-Ladies Paris
+2.  Tips and advice for maintaining an R-Ladies Chapter
+3.  What Kind of support can you expect?
+4.  Connecting with R-Ladies at useR! 2024 in Salzburg
+5.  Guidelines for opening a new chapter
+
+# Introduction of R-Ladies Global
+
+## Introduction of R-Ladies Global
+
+![](images/rladies_global.png){.centered-image width="100%"}
+
+<span class="fragment"> - Organization dedicated to promoting gender diversity in the R programming community.
+
+<span class="fragment"> - Founded in 2012, by ***Gabriela de Queiroz***.
+
+<span class="fragment"> - It aims to create a supportive network for gender minorities who use **R**.
+
+<span class="fragment"> - Missions achieved by organizing meetups, workshops, and social events.
+
+<span class="fragment">
+
+::: {style="position: relative; height: 25%;"}
+<img src="images/qr.png" style="position: absolute; top: -300px; right: -150px; margin: 0; padding: 0;"/>
+:::
+
+## Chapters around the world
+
+![](images/map.png){.centered-image width="80%"}
+
+::: {style="position: relative; height: 30%;"}
+<img src="images/country.png" style="position: absolute; top: -100px; left: 10px; margin: 0; padding: 0;"/>
+:::
+
+::: {style="position: relative; height: 30%;"}
+<img src="images/chap.png" style="position: absolute; top: -500px; right: 10px; margin: 0; padding: 0;"/>
+:::
+
+::: {style="position: relative; height: 30%;"}
+<img src="images/event.png" style="position: absolute; top: -550px; right: 380px; margin: 0; padding: 0;"/>
+:::
+
+# Introduction of R-Ladies Paris
+
+## Introduction of R-Ladies Paris
+
+![](images/rladiesparis.png){.centered-image width="100%"}
+
+<span class="fragment"> - Was founded in **2016**
+
+<span class="fragment"> - Serves as a vibrant community for R practitioners based in **France**
+
+<span class="fragment"> - Provides a supportive environment where members can learn, share, and grow together.
+
+## Our organizing team
+
+::: {style="text-align:center;"}
+::: columns
+::: {.column width="50%"}
+[![Mouna Belaid - Data Consultant mounabelaid.netlify.app](images/mouna.jpg){width="55%"}](https://mounabelaid.netlify.app/)
+:::
+
+::: {.column width="50%"}
+[![Chaima Boughanmi - Data Scientist chaimabgh.netlify.app](images/chaima.PNG){width="45%"}](https://chaimabgh.netlify.app/)
+:::
+:::
+:::
+
+![](images/liens.png){.centered-image width="150%"}
+
+## Our 2023 Annual Report
+
+::: {layout-nrow="2"}
+<span class="fragment"> ![](images/pic1.png){width="62%"}
+
+<span class="fragment"> ![](images/pic2.png){width="50%"}
+
+<span class="fragment"> ![](images/pic3.png){width="50%"}
+
+<span class="fragment"> ![](images/pic4.png){width="50%"}
+:::
+
+------------------------------------------------------------------------
+
+## Overview of our Meetups in 2023
+
+::: r-stack
+![](images/meetup1.png){.fragment width="80%"}
+
+![](images/meetup2.png){.fragment width="80%"}
+
+![](images/meetup3.png){.fragment width="700"}
+
+![](images/meetup4.png){.fragment width="700"}
+
+![](images/meetup5.png){.fragment width="700"}
+:::
+
+## Activities promoting R-Ladies Paris
+
+::: {layout-ncol="2"}
+![**Mouna** presented the R-Ladies Paris community at the **Rencontres R** french local conference dedicated to R users, held in **France** in June 2023.](images/rr2023.jpg){width="85%"}
+
+![**Mouna** was awarded the Opportunity Scholarship and had the chance to meet fellow R-Ladies members at the **posit:conf**(2023), held in **Chicago**.](images/posit2023.jpg){width="60%"}
+:::
+
+## Activities promoting R-Ladies Paris
+
+::: {layout-ncol="2"}
+![](images/watch_party.png){width="80%"}
+
+![This year **Chaima** was awarded the Opportunity Scholarship and will be attending the **posit::conf**(2024) that will be held in August in **Seattle**.](images/posit2024.JPG){width="40%"}
+:::
+
+# How to maintain R-Ladies Chapter?
+
+## How to maintain R-Ladies Chapter?
+
+### Identify speakers and relevant topics for your community
+
+![](images/form.png){.absolute left="0" top="200" width="50%"}
+
+![](images/meetings.png){.absolute top="130" right="50" width="50%"}
+
+::: r-stack
+![](images/berlin_r_user_group_form.png){.fragment width="40%"}
+:::
+
+## How to maintain R-Ladies Chapter?
+
+### Where to find potential speakers?
+
+-   Visit the Directory provided by R-Ladies Global on their official website. The directory is filled with information about speakers who believe in R-Ladies' mission.
+
+-   Look for speakers on Slack at the R-Ladies Community and the R-Ladies workspace dedicated to organizers.
+
+![](images/frame.png){.absolute left="450" top="400" width="17%"}
+
+## How to maintain an R-Ladies chapter?
+
+### Make meetups accessible to everyone interested
+
+-   Share Recording Videos on YouTube.
+
+-   Use platforms like Zoom or Google Meet to host virtual meetups, take advantage of interactive features such as screen sharing, breakout rooms, and live Q&A sessions to keep participants engaged.
+
+-   Use Meetup to promote your events.
+
+## How to maintain an R-Ladies chapter?
+
+### Make meetups accessible to everyone interested
+
+-   Collect testimonies from speakers.
+
+![](images/testimonies.JPG){.absolute left="280" top="220" width="55%"}
+
+# What kind of support you can expect?
+
+## What kind of support you can expect?
+
+### Gain valuable support from the R-Ladies chapter mentoring program
+
+-   Any experienced R-Ladies organizers can be mentors, as long as they have the time to commit to mentorship.
+
+![](images/mentoring_program.png){.absolute left="450" top="300" width="17%"}
+
+## What kind of support you can expect?
+
+### Benefits from the digital infrastructure provided by R-Ladies Global
+
+-   Custom rladies.org email address.
+-   Subscription on [meetup.com](meetup.com)
+-   Hosting online meetups via R-Ladies Global Zoom account
+-   Share meetup replays on R-Ladies Global YouTube channel.
+
+## What kind of support you can expect?
+
+### Explore R-Ladies Slack channels
+
+-   The Organizers’ Slack workspace has a lot of channels that cover different topics, such as jobs, online meetups, and more.
+
+-   You can create a channel on Slack for communication within your chapter's organizing team.
+
+## What kind of support you can expect?
+
+### Ask for a grant from R Consortium
+
+![](images/rconsortium.png){.absolute left="250" width="55%"}
+
+## What kind of support you can expect?
+
+### Get visible through the awesome R-Ladies Blogs and the R-Ladies BOT developed by Cosima Meyer
+
+-   Setting up the Awesome R-Ladies‘ Blogs Repository
+-   Building Mastodon Bots
+
+![](images/rladies_bot.png){.absolute left="280" top="320" width="35%"}
+
+# Connecting with R-Ladies at useR! 2024 in Salzburg
+
+## Connecting with R-Ladies at useR! 2024 in Salzburg
+
+-   Join R-Ladies Meetup dinner at Austria’s oldest wheat beer brewery on **July 8**.
+
+-   "Balancing Global Infrastructure and Local Autonomy: Lessons from R-Ladies Global" - Shannon Pileggi on **July 8**.
+
+-   Join fellow R-Ladies during lunch on **July 9**. Look for the reserved table, and join the R-Ladies community for a Birds of a Feather discussion.
+
+[events.linuxfoundation.org/user/additional-programming/social-activities/](https://events.linuxfoundation.org/user/additional-programming/social-activities/)
+
+# Guidelines for opening a new chapter
+
+## Interested in starting a new R-Ladies chapter?
+
+![](images/email.png){.absolute left="150" top="130" width="70%"}
+
+# Thank you for your attention!
