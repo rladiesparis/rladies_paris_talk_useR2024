@@ -21,7 +21,7 @@ execute:
 
 1.  Introduction to R-Ladies Global and R-Ladies Paris
 2.  Tips and advice for maintaining an R-Ladies Chapter
-3.  What Kind of support can you expect?
+3.  What kind of support can you expect?
 4.  Connecting with R-Ladies at useR! 2024 in Salzburg
 5.  Guidelines for opening a new chapter
 
@@ -89,9 +89,9 @@ Till today, R-Ladies chapters have organized impressive 3,943 meetups.
 
 ![](images/rladiesparis.png){.centered-image width="100%"}
 
-<span class="fragment"> - Was founded in **2016**
+<span class="fragment"> - Was founded in **2016**.
 
-<span class="fragment"> - Serves as a vibrant community for R practitioners based in **France**
+<span class="fragment"> - Serves as a vibrant community for R practitioners based in **France**.
 
 <span class="fragment"> - Provides a supportive environment where members can learn, share, and grow together.
 
@@ -201,9 +201,9 @@ Let's highlight some of the activities that have promoted R-Ladies Paris and con
 INFO sur le SLIDE 
 ::::
 
-# How to maintain R-Ladies Chapter?
+# How to maintain an R-Ladies chapter?
 
-## How to maintain R-Ladies Chapter?
+## How to maintain an R-Ladies chapter?
 
 ### Identify speakers and relevant topics for your community
 
@@ -220,7 +220,7 @@ First of all, you can look for speakers and topics that interest your community.
 See the form link in the chat from Berlin R User Group.
 ::::
 
-## How to maintain R-Ladies Chapter?
+## How to maintain an R-Ladies chapter?
 
 ### Where to find potential speakers?
 
